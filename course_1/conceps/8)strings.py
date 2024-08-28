@@ -50,6 +50,11 @@ x = '''Mahi singh'''
 # [2] length of str ( len(str) )       { used to find the length of string }
 # [3] list str (list(str))    { conver the string into array}
 # [4] join str  { join the particular and eacjh index }
+# [4] str.endswith("er")  { cheacks if hte string end with "er" and return true and false}
+# [5] string.captilize()  { Caotalize the first character}
+# [6] str.replace(old, new)  {replace the character with the new character}
+# [7] str.find(word) {search for the word and return the 1st occurence}
+# [8] str.count("a")   { return the count of an in the string}
 
 
 
