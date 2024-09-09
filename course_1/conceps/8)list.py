@@ -5,6 +5,7 @@
 # Take list as input from the user  { using th .split() method }
 # Adding the items to the list  {add(), insert(), extend([])}
 # Removing the item in list  { remove(), pop()}
+# 
 
 
 
