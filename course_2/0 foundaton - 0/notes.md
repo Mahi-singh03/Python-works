@@ -1,15 +1,15 @@
-.                                          NOTES
+  NOTES
 
 code -----> byte code ------> virtual machine (codes run hear)
 
 copile to byte code (low level code) (this byte code can be run in alsmost any virtual machine)
 
-__pycache__  OR .pyc
+  __pycache__  OR .pyc
 
 * its compiled code
 * the file inside the __pycache__ is also called frozen binary
   source change & python version
-*.pyc works only for imported files
+* .pyc works only for imported files
 
 
 PVM (python virtual machine)

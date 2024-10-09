@@ -1,4 +1,4 @@
-.                                             PYTHON SHELL
+                                             PYTHON SHELL
 
 its direct way to run the pyhon code (only small  code)
 
@@ -13,4 +13,37 @@ its direct way to run the pyhon code (only small  code)
 
 
 
-.                                         IMMUTABLE & MUTABLE
+                                         IMMUTABLE & MUTABLE
+
+
+
+
+Mutable Objects:
+
+Can be modified after creation.
+
+* Lists
+* Dictionaries
+* Sets
+* User-defined classes (generally)
+
+
+
+Immutable Objects:
+
+Cannot be modified after creation.
+
+* Numbers (int, float, complex)
+* Strings
+* Tuples
+* Frozen sets
+* Booleans
+
+
+
+
+immutable datatype cannot be changed but only redefine, for a variable you can address imutable datatype, and then again address another imutable datatype. 
+
+
+
+
