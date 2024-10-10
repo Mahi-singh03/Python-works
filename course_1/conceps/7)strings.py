@@ -44,7 +44,7 @@ x = '''Mahi singh'''
 
 
 
-# Striing Operations:
+# String Operations:
 
 # [1] Concatination ( + )    { used to add two strings }
 # [2] length of str ( len(str) )       { used to find the length of string }
@@ -93,6 +93,7 @@ x = '''Mahi singh'''
 
 
 
+
 #  String indexing :
 # indexing helps to locate the character in string 
 
@@ -100,7 +101,7 @@ x = '''Mahi singh'''
 # [2] Negetive indexing
 
 # for negetive indexing the index starts from -1
-# for positive indexing the index strats from 0
+# for negetive indexing the index starts from -1
 
 
 # str = "mahi singh ji"
@@ -118,20 +119,17 @@ x = '''Mahi singh'''
 
 
 
+## Slicing in string :
 
 
-
-# Slicing in string :
-# slicing refers to trim the string
-
-# Example :
+# # Example :
 
 # string = "mahi singh hii"
 
-# To slice the string from index 2 to 7
+# #To slice the string from index 2 to 7
 # print("string after slicing from index 2 to 7 is :",string[2:7])  #7TH character excluded
 
-# to slice the string from index 2 to second last index
+# #to slice the string from index 2 to second last index
 # print("String after slicing from index 2 to 2nd last index :", string[2:-2])
 
 # print("String after string[::1]  :",string[::1])   #return complete strinig
@@ -139,13 +137,16 @@ x = '''Mahi singh'''
 # print("String after string[::-1] :",string[::-1])   #return complete strinig but in reverse
 
 # print("String after string[::2] :",string[::2])  
-    # return string with 0th index and trim odd index  { retrn : mh ig i} 
+#     #return string with 0th index and trim odd index  { retrn : mh ig i} 
 
 # print("String after string[::3] :",string[::3])
-    # return string with 0th index and trim 2 index return 3rd index { return: miihi }
+#     #return string with 0th index and trim 2 index return 3rd index { return: miihi }
 
 # print("String after string[1::3] :",string[1::3])
-    # return string with 1th index and trim 2 index return 3rd index { return: a n i }
+#     #return string with 1th index and trim 2 index return 3rd index { return: a n i }
+
+
+
 
 
 
@@ -174,7 +175,7 @@ x = '''Mahi singh'''
 
 
 # Formatinig the str :
-#used to print the string in any order
+# used to print the string in any order
 
 
 # x = "{0} is a student of {2} class and has roll no. {1} ".format("mahi sing","504","BSc")
