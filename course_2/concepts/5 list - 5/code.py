@@ -1,6 +1,6 @@
 # declating the list
 
-l1 = [1, 2, "hi", True, "ji"]
+l1 = [1, 2, "hi", True, "ji",78]
 print(l1)
 
 
