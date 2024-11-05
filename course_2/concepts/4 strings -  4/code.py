@@ -121,7 +121,7 @@
 
 
 # # Exmaple of count()
-# str5 = "mahi singh"
+# str5 = "mahi singh ji"
 # print(str.count("i"))
 
 
